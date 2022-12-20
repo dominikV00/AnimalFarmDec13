@@ -29,5 +29,10 @@ public class SoundOfAnimals {
     public static void main(String[] args) {
 
         SoundOfAnimals.soundOfAnimal("dog.mp3");
+        SoundOfAnimals.soundOfAnimal("cat.mp3");
+        SoundOfAnimals.soundOfAnimal("cow.mp3");
+        SoundOfAnimals.soundOfAnimal("sheep.mp3");
+        SoundOfAnimals.soundOfAnimal("pig.mp3");
+
     }
 }
